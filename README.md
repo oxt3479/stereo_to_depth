@@ -1,5 +1,7 @@
-Inria 3DMovie Dataset v1
-========================
+Implementation takes samples from Inria 3DMovie Dataset (In its current implementation):
+
+
+
 
 The Inria 3DMovie Dataset contains all the stereo pairs and their annotations
 used in our ICCV 2013 paper [1]. Most of this data was extracted from the
